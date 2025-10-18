@@ -28,3 +28,9 @@ ListView: scrollDirection
 Controls the scrolling axis (vertical or horizontal). In this demo, the news list scrolls vertically.
 
 Screenshot of UI
+
+<img width="260" height="469" alt="fetch" src="https://github.com/user-attachments/assets/179b639b-97d7-408c-a6c2-55dd47bfc8b0" />
+
+<img width="259" height="453" alt="news" src="https://github.com/user-attachments/assets/3200a374-323a-4d8e-acc3-22b418789c5e" />
+
+
